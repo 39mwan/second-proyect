@@ -137,7 +137,7 @@ a:hover{
     -moz-border-radius: 5;
     border-radius: 5px;
     color: #ffffff;
-    font-size: 15px;
+    font-size: 0.9rem;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
